@@ -6,7 +6,7 @@ only uses in this project the concept of OOP e.g. polymorphism,inheritance and a
 library of graphics.h and language used for this project is c++
 
 ## Features:
-- in this Program we have a drawing canvas. 
+- In this Program we have a drawing canvas. 
 - Its program have a separate panel for Colors, Shapes and for selecting other features of program.
 - It should have an option to draw all possible shapes like Circle Oval Square Rectangle etc. 
 - It should have a color palette of 10 colors. 
@@ -18,5 +18,6 @@ library of graphics.h and language used for this project is c++
 - program have a load button to load the canvas from the file. 
 
 ![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Object-Oriented-OOP-Based-Project/master/OOPProject.jpg)
-I hope you have enjoy this project and I hope you’ll learn a lot from this project.
-## Good Luck 😊 
+
+
+**I hope you have enjoy this project and you’ll learn a lot from this project.**
