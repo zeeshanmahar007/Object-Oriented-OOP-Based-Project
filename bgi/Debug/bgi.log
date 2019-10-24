@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+  winthread.cxx
+C:\Users\Haier\Desktop\create Git\bgi\Source1.cpp(171,12): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Haier\Desktop\create Git\bgi\winthread.cxx(320,9): warning C4101:  'i': unreferenced local variable
+  bgi.vcxproj -> C:\Users\Haier\Desktop\create Git\bgi\Debug\bgi.exe
