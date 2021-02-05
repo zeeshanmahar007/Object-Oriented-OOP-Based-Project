@@ -20,4 +20,4 @@ library of graphics.h and language used for this project is c++
 ![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Object-Oriented-OOP-Based-Project/master/OOPProject.jpg)
 
 
-**I hope you have enjoy this project and you’ll learn a lot from this project.**
+**I hope you have enjoy this project and you’ll learn Something new from this project.**
