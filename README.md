@@ -3,7 +3,8 @@
 
 This project is about paint and used graphics to paint on that graphics
 only uses in this project the concept of OOP e.g. polymorphism,inheritance and also include
-library of graphics.h and language used for this project is c++
+library of graphics.h and language used for this project is c++.
+
 
 ## Features:
 - In this Program we have a drawing canvas. 
