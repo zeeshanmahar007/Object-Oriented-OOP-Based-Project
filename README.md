@@ -18,6 +18,8 @@ library of graphics.h and language used for this project is c++.
 - program have a save button to save the canvas in some file. 
 - program have a load button to load the canvas from the file. 
 
+---
+
 ![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Object-Oriented-OOP-Based-Project/master/OOPProject.jpg)
 
 
