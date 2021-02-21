@@ -1,5 +1,5 @@
-# Object-Oriented-OOP-Based-Project
-##  Paint Project
+# Object Oriented OOP Based Project
+##  Painting Project
 
 This project is about paint and used graphics to paint on that graphics
 only uses in this project the concept of OOP e.g. polymorphism,inheritance and also include
