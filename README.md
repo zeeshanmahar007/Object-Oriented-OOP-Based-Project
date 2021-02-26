@@ -1,4 +1,4 @@
-# Object Oriented OOP Based painting Project
+# Object Oriented Programming(OOP) Based painting Project
 ## Painting Project 
 
 This project is about paint and used graphics to paint on that graphics
